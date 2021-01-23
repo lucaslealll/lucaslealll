@@ -1,20 +1,15 @@
 
 ### Hi everyone, I'm Lucas Andrade! 👋
+
 👨🏻‍💻 Computer Science Student [3/8] <br> 
-
 ⏳ 20yr old <br>
-
 🇧🇷 Born in Brazil <br>
-
 🖱️ Graphic Designer as hobbie <br>
- 
 
 ### What I'm working on 💻
 
 🧠 *"A new knowledge every day"* 🔍 <br>
-
 🎓 College projects <br>
-
 📚 Daily studying <br>
   
 
