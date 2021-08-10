@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Lucas Andrade! 👋
 
-- 👨🏻‍💻 Computer Science Student [3/8]
+- 👨🏻‍💻 Computer Science Student [4/8]
 - ⏳ 21yr old
 - 🇧🇷 Born in Brazil
 - 🖱️ [Graphic Designer](https://www.behance.net/lucasomarandradeleal) as hobbie
