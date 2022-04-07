@@ -1,27 +1,31 @@
 ### Hi everyone, I'm Lucas Andrade! 👋
 
-- 👨🏻‍💻 Computer Science Student **[5/8]**
-- 👨‍💻 Data Engineer - 4DataDriven  
+- 👨🏻‍💻 Computer Science Student **[5/8]** - [_PUC Minas_](https://www.pucpcaldas.br/) 
+- 📊 Data Engineer - [_4DataDriven_](http://www.4datadriven.com.br/)  
 - ⏳ 22yr old
 - 🇧🇷 Born in Brazil
-- 🖱️ [Graphic Designer](https://www.behance.net/lucasomarandradeleal) as hobbie
+- 🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
 
 ### What I'm working on 💻
 - **Hacker-Chat** - Terminal Bash (Soon)
-- [**Climapp** - Android](https://github.com/lucasoal/app-climapp)
-- [**Password Generator** - Android](https://github.com/lucasoal/app-password-generator)
+- [_**Climapp** - Android_](https://github.com/lucasoal/app-climapp)
+- [_**Password Generator** - Android_](https://github.com/lucasoal/app-password-generator)
 
 ### Find me around the world 🌎
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-ffac33?=flat-circle&labelColor=black&logo=linkedin&logoColor=ffac33&link=https://www.linkedin.com/in/lucasomarandradeleal/)](https://www.linkedin.com/in/lucasomarandradeleal/) [![Behance Badge](https://img.shields.io/badge/-Behance-ffac33?=flat-circle&labelColor=black&logo=behance&logoColor=ffac33&link=https://www.behance.net/lucasomarandradeleal)](https://www.behance.net/lucasomarandradeleal)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ffac33?style=flat-circle&labelColor=black&logo=Instagram&logoColor=ffac33&link=https://www.instagram.com/lucas_oal)](https://www.instagram.com/lucas_oal/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-ffac33?style=flat-circle&labelColor=black&logo=Twitter&logoColor=ffac33&link=https://www.twitter.com/lucas_oal)](https://twitter.com/lucas_oal)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffac33?style=flat-circle&labelColor=black&logo=GitHub&logoColor=ffac33&link=https://www.github.com/lucasoal)](https://github.com/lucasoal)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-7c06c1?=flat-circle&labelColor=black&logo=linkedin&logoColor=7c06c1&link=https://www.linkedin.com/in/lucasomarandradeleal/)](https://www.linkedin.com/in/lucasomarandradeleal/) [![Behance Badge](https://img.shields.io/badge/-Behance-7c06c1?=flat-circle&labelColor=black&logo=behance&logoColor=7c06c1&link=https://www.behance.net/lucasomarandradeleal)](https://www.behance.net/lucasomarandradeleal)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-7c06c1?style=flat-circle&labelColor=black&logo=Instagram&logoColor=7c06c1&link=https://www.instagram.com/lucas_oal)](https://www.instagram.com/lucas_oal/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-7c06c1?style=flat-circle&labelColor=black&logo=Twitter&logoColor=7c06c1&link=https://www.twitter.com/lucas_oal)](https://twitter.com/lucas_oal)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-7c06c1?style=flat-circle&labelColor=black&logo=GitHub&logoColor=7c06c1&link=https://www.github.com/lucasoal)](https://github.com/lucasoal)
 
 ### Technologies
 <div>
-  <img align="center" alt="Icon-C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="center" alt="Icon-Bash" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img align="center" alt="Icon-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Icon-GoogleCloud" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Icon-Airflow" height="25" src="https://artifacthub.io/image/1848fc36-164f-43ec-9d3f-d224e9d72351@1x">
+  <img align="center" alt="Icon-SqlServer" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Icon-Azure" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
+  <img align="center" alt="Icon-C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="Icon-Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Icon-Js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Icon-Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Icon-React" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Icon-MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Icon-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Icon-React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
