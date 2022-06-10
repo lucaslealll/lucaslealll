@@ -20,7 +20,7 @@
 <div>
   <img align="center" alt="Icon-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-GoogleCloud" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Icon-Airflow" height="25" src="https://artifacthub.io/image/1848fc36-164f-43ec-9d3f-d224e9d72351@1x">
+<!--   <img align="center" alt="Icon-Airflow" height="25" src="https://artifacthub.io/image/1848fc36-164f-43ec-9d3f-d224e9d72351@1x"> -->
   <img align="center" alt="Icon-SqlServer" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Icon-Azure" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
   <img align="center" alt="Icon-C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
