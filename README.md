@@ -8,7 +8,6 @@
 
 ### What I'm working on 💻
 - **Hacker-Chat** - Terminal Bash (Soon)
-- [_**Climapp** - Android_](https://github.com/lucasoal/app-climapp)
 - [_**Password Generator** - Android_](https://github.com/lucasoal/app-password-generator)
 
 ### Find me around the world 🌎
