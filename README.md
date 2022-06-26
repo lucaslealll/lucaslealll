@@ -6,9 +6,19 @@
 - 🇧🇷 Born in Brazil
 - 🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
 
-### What I'm working on 💻
-- **Hacker-Chat** - Terminal Bash (Soon)
-- [_**Password Generator** - Android_](https://github.com/lucasoal/app-password-generator)
+### My Projects 💻
+
+- **C** - [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos)
+- **C** - [Encryption and Decryption using Pipes and Water Mark](https://github.com/lucasoal/Faculdade/tree/main/C/C-Pipes)
+- **Java** - [Hash Generator](https://github.com/lucasoal/ReactRedux)
+- **Java** - [Interface for ADB](https://github.com/lucasoal/ReactRedux)
+- **Java Android** - [Android API About Cities](https://github.com/lucasoal/Faculdade/tree/main/Java/Java-AndroidApiGeodb)
+- **JavaScript** - [HackerChat - Terminal Bash (Soon)
+- **React** - [Orkut-inspired Social Network](https://github.com/lucasoal/Alurakut)
+- **React and Redux** - [Expense Control Platform](https://github.com/lucasoal/ReactRedux)
+- **React Native** - [Password Generator - Android](https://github.com/lucasoal/app-password-generator)
+- **React Native** - [Weather App - Android](https://github.com/lucasoal/AppClimapp)
+
 
 ### Find me around the world 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-7c06c1?=flat-circle&labelColor=black&logo=linkedin&logoColor=7c06c1&link=https://www.linkedin.com/in/lucasomarandradeleal/)](https://www.linkedin.com/in/lucasomarandradeleal/) [![Behance Badge](https://img.shields.io/badge/-Behance-7c06c1?=flat-circle&labelColor=black&logo=behance&logoColor=7c06c1&link=https://www.behance.net/lucasomarandradeleal)](https://www.behance.net/lucasomarandradeleal)
