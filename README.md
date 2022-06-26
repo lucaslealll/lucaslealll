@@ -26,8 +26,7 @@
 
 ### Technologies
 <div>
-  <a href="https://github.com/lucasoal?tab=repositories&q=&type=&language=python&sort="><img  align="center" alt="Icon-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="media-object  img-responsive img-thumbnail"></a>
-  <img align="center" alt="Icon-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" href="https://github.com/lucasoal?tab=repositories&q=&type=&language=python&sort=">
+  <a href="https://github.com/lucasoal?tab=repositories&q=&type=&language=python&sort="><img target="_blank" align="center" alt="Icon-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="media-object  img-responsive img-thumbnail"></a>  
   <img align="center" alt="Icon-GoogleCloud" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
 <!--   <img align="center" alt="Icon-Airflow" height="25" src="https://artifacthub.io/image/1848fc36-164f-43ec-9d3f-d224e9d72351@1x"> -->
   <img align="center" alt="Icon-SqlServer" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
