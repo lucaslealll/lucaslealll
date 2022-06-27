@@ -24,7 +24,6 @@
 
 ### Find me around the world 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-7c06c1?=flat-circle&labelColor=black&logo=linkedin&logoColor=7c06c1&link=https://www.linkedin.com/in/lucasomarandradeleal/)](https://www.linkedin.com/in/lucasomarandradeleal/) [![Behance Badge](https://img.shields.io/badge/-Behance-7c06c1?=flat-circle&labelColor=black&logo=behance&logoColor=7c06c1&link=https://www.behance.net/lucasomarandradeleal)](https://www.behance.net/lucasomarandradeleal)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-7c06c1?style=flat-circle&labelColor=black&logo=GitHub&logoColor=7c06c1&link=https://www.github.com/lucasoal)](https://github.com/lucasoal)
 
 ### Technologies
 <div>
