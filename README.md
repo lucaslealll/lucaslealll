@@ -8,14 +8,16 @@
 
 ### My Projects 💻
 
-- **C** - [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos)
-- **C** - [Encryption and Decryption using Pipes and Water Mark](https://github.com/lucasoal/Faculdade/tree/main/C/C-Pipes)
-- **Java** - [Hash Generator](https://github.com/lucasoal/ReactRedux)
-- **Java** - [Interface for ADB](https://github.com/lucasoal/ReactRedux)
-- **Java Android** - [Android API About Cities](https://github.com/lucasoal/Faculdade/tree/main/Java/Java-AndroidApiGeodb)
-- **JavaScript** - [HackerChat - Terminal Bash (Soon)
-- **React** - [Orkut-inspired Social Network](https://github.com/lucasoal/Alurakut)
-- **React and Redux** - [Expense Control Platform](https://github.com/lucasoal/ReactRedux)
+- [**College Projects 🎓**](https://github.com/lucasoal/Faculdade)
+- **C** - [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_ 😄
+- **Java** - [Hash Generator](https://github.com/lucasoal/JavaGeradorHash)
+- **Java** - [Interface for Android Debug Bridge (ADB)](https://github.com/lucasoal/JavaAdbInterface)
+- **Java Android** - [Android API About Cities](https://github.com/lucasoal/JavaAndroidGeodbAPI)
+- **JavaScript** - HackerChat - Terminal Bash (Soon)
+- **JavaScript** - [Memory Game (First step before ReactJS)](https://github.com/lucasoal/JavascriptMemoryGame)
+- **ReactJS** - [⭐ Athena Mentorship ⭐](https://github.com/tai-II-plataforma-educacional)
+- **ReactJS** - [Orkut Inspired Social Network](https://github.com/lucasoal/Alurakut)
+- **ReactJS and Redux** - [Expense Control Platform](https://github.com/lucasoal/ReactRedux)
 - **React Native** - [Password Generator - Android](https://github.com/lucasoal/app-password-generator)
 - **React Native** - [Weather App - Android](https://github.com/lucasoal/AppClimapp)
 
