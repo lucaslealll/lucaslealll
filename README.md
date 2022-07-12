@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Lucas Andrade! 👋
 
-- 👨🏻‍💻 Computer Science Student **[5/8]** - [_PUC Minas_](https://www.pucpcaldas.br/) 
+- 👨🏻‍💻 Computer Science Student **[6/8]** - [_PUC Minas_](https://www.pucpcaldas.br/) 
 - 📊 Data Engineer - [_4DataDriven_](http://www.4datadriven.com.br/)  
 - ⏳ 22yr old
 - 🇧🇷 Born in Brazil
