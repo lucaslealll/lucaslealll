@@ -25,7 +25,7 @@
 ### Find me around the world 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-7c06c1?=flat-circle&labelColor=black&logo=linkedin&logoColor=7c06c1&link=https://www.linkedin.com/in/lucasomarandradeleal/)](https://www.linkedin.com/in/lucasomarandradeleal/) [![Behance Badge](https://img.shields.io/badge/-Behance-7c06c1?=flat-circle&labelColor=black&logo=behance&logoColor=7c06c1&link=https://www.behance.net/lucasomarandradeleal)](https://www.behance.net/lucasomarandradeleal)
 
-### Technologies
+### Technologies 💻
 <div>
   <a href="https://github.com/lucasoal?tab=repositories&q=&type=&language=python&sort="><img target="_blank" align="center" alt="Icon-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="media-object  img-responsive img-thumbnail"></a>  
   <img align="center" alt="Icon-GoogleCloud" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
