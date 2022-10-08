@@ -15,7 +15,7 @@
 - **Java Android** - [Android API About Cities](https://github.com/lucasoal/JavaAndroidGeodbAPI)
 - **JavaScript** - HackerChat - Terminal Bash (Soon)
 - **JavaScript** - [Memory Game (First step before ReactJS)](https://github.com/lucasoal/JavascriptMemoryGame)
-- **ReactJS** - [⭐ Athena Mentorship ⭐](https://github.com/tai-II-plataforma-educacional)
+- **ReactJS** - [⭐ Athena Mentorship ⭐](https://github.com/athena-mentorship)
 - **ReactJS** - [Orkut Inspired Social Network](https://github.com/lucasoal/Alurakut)
 - **ReactJS and Redux** - [Expense Control Platform](https://github.com/lucasoal/ReactRedux)
 - **React Native** - [Password Generator - Android](https://github.com/lucasoal/app-password-generator)
