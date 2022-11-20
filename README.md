@@ -1,6 +1,6 @@
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucasoal&count_bg=%2000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hi everyone, I'm Lucas Andrade! 👋
+## Hi everyone, I'm Lucas Andrade! 👋
 
 - 👨🏻‍💻 Computer Science Student **[6/8]** - [_PUC Minas_](https://www.pucpcaldas.br/) 
 - 📊 Data Engineer - [_4DataDriven_](http://www.4datadriven.com.br/)  
@@ -8,7 +8,7 @@
 - 🇧🇷 Born in Brazil
 - 🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
 
-### Technologies 💻
+## Technologies 💻
 <div>
   <a href="https://github.com/lucasoal?tab=repositories&q=&type=&language=python&sort="><img target="_blank" align="center" alt="Icon-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="media-object  img-responsive img-thumbnail"></a>  
   <img align="center" alt="Icon-GoogleCloud" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
@@ -25,7 +25,7 @@
 </div>
 
 
-### My Projects 💻
+## My Projects 💻
 
 - [**College Projects 🎓**](https://github.com/lucasoal/Faculdade)
 - **C** - [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_ 😄
