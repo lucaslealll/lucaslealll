@@ -1,3 +1,5 @@
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucasoal&count_bg=%2000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hi everyone, I'm Lucas Andrade! 👋
 
 - 👨🏻‍💻 Computer Science Student **[6/8]** - [_PUC Minas_](https://www.pucpcaldas.br/) 
@@ -41,5 +43,3 @@
 
 ### Find me around the world 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-7c06c1?=flat-circle&labelColor=black&logo=linkedin&logoColor=7c06c1&link=https://www.linkedin.com/in/lucasomarandradeleal/)](https://www.linkedin.com/in/lucasomarandradeleal/) [![Behance Badge](https://img.shields.io/badge/-Behance-7c06c1?=flat-circle&labelColor=black&logo=behance&logoColor=7c06c1&link=https://www.behance.net/lucasomarandradeleal)](https://www.behance.net/lucasomarandradeleal)
-
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucasoal&count_bg=%2000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
