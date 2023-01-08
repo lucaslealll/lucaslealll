@@ -4,8 +4,8 @@
 ## Hi everyone, I'm Lucas Andrade! 👋
 
 - 👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://www.pucpcaldas.br/) 
-- 🛡️ **Researcher in Cyber-Intelligence at _CyberOne - Laboratory of Cybernetic Security and Computer Forensics_**
-  - _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
+  - 🛡️ **Researcher in Cyber-Intelligence at _CyberOne - Laboratory of Cybernetic Security and Computer Forensics_**
+    - _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 - 📊 Data Engineer - [_4DataDriven_](http://www.4datadriven.com.br/)  
 - ⏳ 22yr old
 - 🇧🇷 Born in Brazil
