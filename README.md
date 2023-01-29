@@ -40,16 +40,11 @@
 
 -   <img align="top" alt="Icon_C" height="20" src="./icons/c.svg"> C
 
-    -   [C Projects](https://github.com/lucasoal/Faculdade#c)
-    -   [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_
-    -   [C Projects](https://github.com/lucasoal/Faculdade#c)
-    -   [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_
+    -   [C Projects](https://github.com/lucasoal/Faculdade#c), [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_, [C Projects](https://github.com/lucasoal/Faculdade#c), [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_
 
 -   <img align="" alt="Icon_Java" height="20" src="./icons/java.svg"> Java
 
-    -   [Hash Generator](https://github.com/lucasoal/JavaGeradorHash)
-    -   [Interface for Android Debug Bridge (ADB)](https://github.com/lucasoal/JavaAdbInterface)
-    -   [Android API About Cities](https://github.com/lucasoal/JavaAndroidGeodbAPI)
+    -   [Hash Generator](https://github.com/lucasoal/JavaGeradorHash), [Interface for Android Debug Bridge (ADB)](https://github.com/lucasoal/JavaAdbInterface), [Android API About Cities](https://github.com/lucasoal/JavaAndroidGeodbAPI)
 
 -   <img align="top" alt="Icon_JavaScript" height="20" src="./icons/js.svg"> JavaScript
 
