@@ -2,13 +2,13 @@
 
 ## Hi everyone, I'm Lucas Andrade! 👋
 
-👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
-
-> 🛡️ **Researcher in Cyber-Intelligence at _CyberOne - Laboratory of Cybernetic Security and Computer Forensics_** > _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
-> 📊 Data Engineer - [_4DataDriven_](http://www.4datadriven.com.br/)
-> ⏳ 22yr old
-> <img align="center" alt="Brazil_Flag" height="15" src="./icons/brazil.svg"> Born in Brazil
-> 🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
+-   👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
+    -   🛡️ **Researcher in Cyber-Intelligence at _CyberOne - Laboratory of Cybernetic Security and Computer Forensics_**
+        -   _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
+-   📊 Data Engineer - [_4DataDriven_](http://www.4datadriven.com.br/)
+-   ⏳ 22yr old
+-   <img align="center" alt="Brazil_Flag" height="15" src="./icons/brazil.svg"> Born in Brazil
+-   🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
 
 ## Technologies 💻
 
@@ -40,28 +40,28 @@
 
 <img align="top" alt="Icon_C" height="20" src="./icons/c.svg"> C
 
-> [C Projects](https://github.com/lucasoal/Faculdade#c)**,** [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_
+[C Projects](https://github.com/lucasoal/Faculdade#c)**,** [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_
 
 <img align="" alt="Icon_Java" height="20" src="./icons/java.svg"> Java
 
-> [Hash Generator](https://github.com/lucasoal/JavaGeradorHash)**,** [Interface for Android Debug Bridge (ADB)](https://github.com/lucasoal/JavaAdbInterface)**,** [Android API About Cities](https://github.com/lucasoal/JavaAndroidGeodbAPI)
+[Hash Generator](https://github.com/lucasoal/JavaGeradorHash)**,** [Interface for Android Debug Bridge (ADB)](https://github.com/lucasoal/JavaAdbInterface)**,** [Android API About Cities](https://github.com/lucasoal/JavaAndroidGeodbAPI)
 
 <img align="top" alt="Icon_JavaScript" height="20" src="./icons/js.svg"> JavaScript
 
-> HackerChat - Terminal Bash (Soon)**,** [Memory Game (First step before ReactJS)](https://github.com/lucasoal/JavascriptMemoryGame)
+HackerChat - Terminal Bash (Soon)**,** [Memory Game (First step before ReactJS)](https://github.com/lucasoal/JavascriptMemoryGame)
 
 <img align="top" alt="Icon_Python" height="20" src="./icons/python.svg"> Python
 
-> [Modularization with Python and Docker to ETL Pipeline](https://github.com/lucasoal/ModularizationPythonDockerETLpipeline)**,** [Data Science Notebooks](https://github.com/lucasoal/Faculdade#python-notebook-)
+[Modularization with Python and Docker to ETL Pipeline](https://github.com/lucasoal/ModularizationPythonDockerETLpipeline)**,** [Data Science Notebooks](https://github.com/lucasoal/Faculdade#python-notebook-)
 
 <img align="top" alt="Icon_React" height="20" src="./icons/react.svg"> React
 
-> [Athena Mentorship](https://github.com/athena-mentorship)**,** [Orkut Inspired Social Network](https://github.com/lucasoal/Alurakut)**,** [Expense Control Platform](https://github.com/lucasoal/ReactRedux)
+[Athena Mentorship](https://github.com/athena-mentorship)**,** [Orkut Inspired Social Network](https://github.com/lucasoal/Alurakut)**,** [Expense Control Platform](https://github.com/lucasoal/ReactRedux)
 
-<img align="top" alt="Icon_React_Native" height="20" src="./icons/react_native.svg"> React Native
+<img align="top" alt="Icon_React" height="20" src="./icons/react_native.svg"> React Native
 
-> [Password Generator](https://github.com/lucasoal/app-password-generator)**,** [Weather App](https://github.com/lucasoal/AppClimapp)
+[Password Generator - Android](https://github.com/lucasoal/app-password-generator)**,** [Weather App - Android](https://github.com/lucasoal/AppClimapp)
 
 <img align="top" alt="Icon_PUC" height="20" src="./icons/puc_minas.png"> PUC Minas
 
-> [Assembly](https://github.com/lucasoal/Faculdade#assembly-)**,** [Automatons](https://github.com/lucasoal/Faculdade#automatons-)**,** [Shell Script](https://github.com/lucasoal/Faculdade#shell-script-)**,** [Blender](https://github.com/lucasoal/Faculdade#blender-)**,** [C](https://github.com/lucasoal/Faculdade#c-)**,** [C++](https://github.com/lucasoal/Faculdade#c-1-)**,** [CoppeliaSim](https://github.com/lucasoal/Faculdade#coppeliasim-)**,** [Java](https://github.com/lucasoal/Faculdade#java-)**,** [Lisp](https://github.com/lucasoal/Faculdade#lisp-)**,** [Lua](https://github.com/lucasoal/Faculdade#lua-)**,** [Pascal](https://github.com/lucasoal/Faculdade#pascal-)**,** [Prolog](https://github.com/lucasoal/Faculdade#prolog-)**,** [Python](https://github.com/lucasoal/Faculdade#python-notebook-)**,** [SQL](https://github.com/lucasoal/Faculdade#sql-)
+[Assembly](https://github.com/lucasoal/Faculdade#assembly-)**,** [Automatons](https://github.com/lucasoal/Faculdade#automatons-)**,** [Shell Script](https://github.com/lucasoal/Faculdade#shell-script-)**,** [Blender](https://github.com/lucasoal/Faculdade#blender-)**,** [C](https://github.com/lucasoal/Faculdade#c-)**,** [C++](https://github.com/lucasoal/Faculdade#c-1-)**,** [CoppeliaSim](https://github.com/lucasoal/Faculdade#coppeliasim-)**,** [Java](https://github.com/lucasoal/Faculdade#java-)**,** [Lisp](https://github.com/lucasoal/Faculdade#lisp-)**,** [Lua](https://github.com/lucasoal/Faculdade#lua-)**,** [Pascal](https://github.com/lucasoal/Faculdade#pascal-)**,** [Prolog](https://github.com/lucasoal/Faculdade#prolog-)**,** [Python](https://github.com/lucasoal/Faculdade#python-notebook-)**,** [SQL](https://github.com/lucasoal/Faculdade#sql-)
