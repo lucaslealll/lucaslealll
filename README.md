@@ -41,7 +41,7 @@
 <div>
 
 -   <img align="top" alt="Icon_C" height="20" src="./icons/c.svg"> **C**: [C Projects](https://github.com/lucasoal/Faculdade#c), [Parking Control](https://github.com/lucasoal/Faculdade/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_
--   <img align="" alt="Icon_Java" height="20" src="./icons/java.svg"> **Java**: [Hash Generator](https://github.com/lucasoal/JavaGeradorHash), [Interface for Android Debug Bridge (ADB)](https://github.com/lucasoal/JavaAdbInterface), [Android API About Cities](https://github.com/lucasoal/JavaAndroidGeodbAPI)
+-   <img align="top" alt="Icon_Java" height="20" src="./icons/java.svg"> **Java**: [Hash Generator](https://github.com/lucasoal/JavaGeradorHash), [Interface for Android Debug Bridge (ADB)](https://github.com/lucasoal/JavaAdbInterface), [Android API About Cities](https://github.com/lucasoal/JavaAndroidGeodbAPI)
 -   <img align="top" alt="Icon_JavaScript" height="20" src="./icons/js.svg"> **JavaScript**: HackerChat - Terminal Bash (Soon), [Memory Game (First step before ReactJS)](https://github.com/lucasoal/JavascriptMemoryGame)
 -   <img align="top" alt="Icon_Python" height="20" src="./icons/python.svg"> **Python**: [Modularization with Python and Docker to ETL Pipeline](https://github.com/lucasoal/ModularizationPythonDockerETLpipeline), [Data Science Notebooks](https://github.com/lucasoal/Faculdade#python-notebook-)
 -   <img align="top" alt="Icon_React" height="20" src="./icons/react.svg"> **React**: [Athena Mentorship](https://github.com/athena-mentorship), [Orkut Inspired Social Network](https://github.com/lucasoal/Alurakut), [Expense Control Platform](https://github.com/lucasoal/ReactRedux)
