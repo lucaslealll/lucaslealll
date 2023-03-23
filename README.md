@@ -31,11 +31,11 @@
 ## Forensic 🛡️
 
 <div> 
-  <img align="center" alt="CipherTrace" height="20" src="./icons/ciphertrace.svg">
-  <img align="center" alt="Maltego"     height="20" src="./icons/maltego.svg">
-  <img align="center" alt="TATUM"       height="15" src="./icons/tatum.svg">
-  <img align="center" alt="TOR"         height="20" src="./icons/tor.png">
+  <img align="center" alt="Maltego"     height="20" src="./icons/maltego.png">
+  <img align="center" alt="CipherTrace" height="20" src="./icons/ciphertrace.png">
+  <img align="center" alt="TATUM"       height="15" src="./icons/tatum.png">
   <img align="center" alt="Kali Linux"  height="30" src="./icons/kali.svg">
+  <img align="center" alt="TOR"         height="20" src="./icons/tor.png">
 </div>
 
 ## Some Projects 🧑‍💻
@@ -46,7 +46,7 @@
 -   <img align="top" alt="Java"        height="20" src="./icons/java.svg"> **Java**: [_Hash Generator_](https://github.com/lucasoal/JavaGeradorHash) • [_Interface for Android Debug Bridge (ADB)_](https://github.com/lucasoal/JavaAdbInterface) • [_Android API About Cities_](https://github.com/lucasoal/JavaAndroidGeodbAPI)
 -   <img align="top" alt="JavaScript"  height="20" src="./icons/js.svg"> **JavaScript**: [_Modularization with Python and Docker to ETL Pipeline_](https://github.com/lucasoal/ModularizationPythonDockerETLpipeline) • [_Data Science Notebooks_](https://github.com/lucasoal/Faculdade#python-notebook-)
 -   <img align="top" alt="React"       height="20" src="./icons/react.svg"> **React**: [_Athena Mentorship_](https://github.com/athena-mentorship) • [_Orkut Inspired Social Network_](https://github.com/lucasoal/Alurakut) • [_Expense Control Platform_](https://github.com/lucasoal/ReactRedux)
--   <img align="top" alt="ReactNative" height="20" src="./icons/react_native.svg"> **React Native**: [_Password Generator - Android_](https://github.com/lucasoal/app-password-generator) • [_Weather App - Android_](https://github.com/lucasoal/AppClimapp)
+-   <img align="top" alt="ReactNative" height="20" src="./icons/react_native.png"> **React Native**: [_Password Generator - Android_](https://github.com/lucasoal/app-password-generator) • [_Weather App - Android_](https://github.com/lucasoal/AppClimapp)
 -   <img align="top" alt="PUC"         height="17" src="./icons/puc_minas.png"> **PUC Minas**: [_Assembly_](https://github.com/lucasoal/Faculdade#assembly-) • [_Automatons_](https://github.com/lucasoal/Faculdade#automatons-) • [_Shell Script_](https://github.com/lucasoal/Faculdade#shell-script-) • [_Blender_](https://github.com/lucasoal/Faculdade#blender-) • [_C_](https://github.com/lucasoal/Faculdade#c-) • [_C++_](https://github.com/lucasoal/Faculdade#c-1-) • [_CoppeliaSim_](https://github.com/lucasoal/Faculdade#coppeliasim-) • [_Java_](https://github.com/lucasoal/Faculdade#java-) • [_Lisp_](https://github.com/lucasoal/Faculdade#lisp-) • [_Lua_](https://github.com/lucasoal/Faculdade#lua-) • [_Pascal_](https://github.com/lucasoal/Faculdade#pascal-) • [_Prolog_](https://github.com/lucasoal/Faculdade#prolog-) • [Python](https://github.com/lucasoal/Faculdade#python-notebook-) • [_SQL_](https://github.com/lucasoal/Faculdade#sql-)
 
 </div>
