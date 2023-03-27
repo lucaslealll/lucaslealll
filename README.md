@@ -2,13 +2,13 @@
 
 ## Hi everyone, I'm Lucas Andrade! 👋
 
--   👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://computacao.pucpcaldas.br/)
-    -   🛡️ **Researcher in Cyber-Intelligence at _CyberOne - Laboratory of Cybernetic Security and Computer Forensics_**
-        -   _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
--   📊 Data Engineer at [_4Data Driven_](http://www.4datadriven.com.br/)
--   ⏳ 23yr old
--   <img align="center" alt="Brazil_Flag" height="15" src="./icons/brazil.svg"> Born in Brazil
--   🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
+- 👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://computacao.pucpcaldas.br/)
+  - 🛡️ **Researcher in Cyber-Intelligence at _CyberOne - Laboratory of Cybernetic Security and Computer Forensics_**
+    - _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
+- 📊 Data Engineer at [_4Data Driven_](http://www.4datadriven.com.br/)
+- ⏳ 23yr old
+- <img align="center" alt="Brazil_Flag" height="15" src="./icons/brazil.svg"> Born in Brazil
+- 🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
 
 ## Technologies 💻
 
@@ -42,11 +42,12 @@
 
 <div>
 
--   <img align="top" alt="C"           height="20" src="./icons/c.svg"> **C**: [_C Projects_](https://github.com/lucasoal/puc-CienciaDaComputacao#c) • [_Parking Control_](https://github.com/lucasoal/puc-CienciaDaComputacao/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_
--   <img align="top" alt="Java"        height="20" src="./icons/java.svg"> **Java**: [_Hash Generator_](https://github.com/lucasoal/JavaGeradorHash) • [_Interface for Android Debug Bridge (ADB)_](https://github.com/lucasoal/JavaAdbInterface) • [_Android API About Cities_](https://github.com/lucasoal/JavaAndroidGeodbAPI)
--   <img align="top" alt="JavaScript"  height="20" src="./icons/js.svg"> **JavaScript**: [_Modularization with Python and Docker to ETL Pipeline_](https://github.com/lucasoal/ModularizationPythonDockerETLpipeline) • [_Data Science Notebooks_](https://github.com/lucasoal/puc-CienciaDaComputacao#python-notebook-)
--   <img align="top" alt="React"       height="20" src="./icons/react.svg"> **React**: [_Athena Mentorship_](https://github.com/athena-mentorship) • [_Orkut Inspired Social Network_](https://github.com/lucasoal/Alurakut) • [_Expense Control Platform_](https://github.com/lucasoal/ReactRedux)
--   <img align="top" alt="ReactNative" height="20" src="./icons/react_native.png"> **React Native**: [_Password Generator - Android_](https://github.com/lucasoal/app-password-generator) • [_Weather App - Android_](https://github.com/lucasoal/AppClimapp)
--   <img align="top" alt="PUC"         height="17" src="./icons/puc_minas.png"> **PUC Minas**: [_Assembly_](https://github.com/lucasoal/puc-CienciaDaComputacao#assembly-) • [_Automatons_](https://github.com/lucasoal/puc-CienciaDaComputacao#automatons-) • [_Shell Script_](https://github.com/lucasoal/puc-CienciaDaComputacao#shell-script-) • [_Blender_](https://github.com/lucasoal/puc-CienciaDaComputacao#blender-) • [_C_](https://github.com/lucasoal/puc-CienciaDaComputacao#c-) • [_C++_](https://github.com/lucasoal/puc-CienciaDaComputacao#c-1-) • [_CoppeliaSim_](https://github.com/lucasoal/puc-CienciaDaComputacao#coppeliasim-) • [_Java_](https://github.com/lucasoal/puc-CienciaDaComputacao#java-) • [_Lisp_](https://github.com/lucasoal/puc-CienciaDaComputacao#lisp-) • [_Lua_](https://github.com/lucasoal/puc-CienciaDaComputacao#lua-) • [_Pascal_](https://github.com/lucasoal/puc-CienciaDaComputacao#pascal-) • [_Prolog_](https://github.com/lucasoal/puc-CienciaDaComputacao#prolog-) • [Python](https://github.com/lucasoal/puc-CienciaDaComputacao#python-notebook-) • [_SQL_](https://github.com/lucasoal/puc-CienciaDaComputacao#sql-)
+- <img align="top" alt="C"            height="20" src="./icons/c.svg"> **C**: [_C Projects_](https://github.com/lucasoal/puc-CienciaDaComputacao#c) • [_Parking Control_](https://github.com/lucasoal/puc-CienciaDaComputacao/tree/main/C/C-Estacionamentos) _Honorable mention for the first college project_
+- <img align="top" alt="Java"         height="20" src="./icons/java.svg"> **Java**: [_Hash Generator_](https://github.com/lucasoal/JavaGeradorHash) • [_Interface for Android Debug Bridge (ADB)_](https://github.com/lucasoal/java-AdbInterface) • [_Android API About Cities_](https://github.com/lucasoal/java-AndroidGeodbAPI)
+- <img align="top" alt="JavaScript"   height="20" src="./icons/js.svg"> **JavaScript**: [_Memory Game_](https://github.com/lucasoal/javascript-course-MemoryGame) • [_Terminal Chat_](https://github.com/lucasoal/javascript-course-Tchat) • [_WhatsApp Cyber Attendant_](https://github.com/lucasoal/javascript-WppBot)
+- <img align="top" alt="PUC"          height="17" src="./icons/puc_minas.png"> **PUC Minas**: [_Assembly_](https://github.com/lucasoal/puc-CienciaDaComputacao#assembly-) • [_Automatons_](https://github.com/lucasoal/puc-CienciaDaComputacao#automatons-) • [_Shell Script_](https://github.com/lucasoal/puc-CienciaDaComputacao#shell-script-) • [_Blender_](https://github.com/lucasoal/puc-CienciaDaComputacao#blender-) • [_C_](https://github.com/lucasoal/puc-CienciaDaComputacao#c-) • [_C++_](https://github.com/lucasoal/puc-CienciaDaComputacao#c-1-) • [_CoppeliaSim_](https://github.com/lucasoal/puc-CienciaDaComputacao#coppeliasim-) • [_Java_](https://github.com/lucasoal/puc-CienciaDaComputacao#java-) • [_Lisp_](https://github.com/lucasoal/puc-CienciaDaComputacao#lisp-) • [_Lua_](https://github.com/lucasoal/puc-CienciaDaComputacao#lua-) • [_Pascal_](https://github.com/lucasoal/puc-CienciaDaComputacao#pascal-) • [_Prolog_](https://github.com/lucasoal/puc-CienciaDaComputacao#prolog-) • [Python](https://github.com/lucasoal/puc-CienciaDaComputacao#python-notebook-) • [_SQL_](https://github.com/lucasoal/puc-CienciaDaComputacao#sql-)
+- <img align="top" alt="Python"       height="20" src="./icons/python.svg"> **Python**: [_Modularization with Python and Docker to ETL Pipeline_](https://github.com/lucasoal/ModularizationPythonDockerETLpipeline) • [_Data Science Notebooks_](https://github.com/lucasoal/puc-CienciaDaComputacao#python-notebook-) • _Cyber-Intelligence Research_ • [_python-CryptocurrencyTracker (Private)_](https://github.com/lucasoal/python-CryptocurrencyTracker) • [_python-DataTaskAccelerator_](https://github.com/lucasoal/python-DataTaskAccelerator)
+- <img align="top" alt="React"        height="20" src="./icons/react.svg"> **React**: [_Athena Mentorship_](https://github.com/athena-mentorship) • [_Orkut Inspired Social Network_](https://github.com/lucasoal/Alurakut) • [_Expense Control Platform_](https://github.com/lucasoal/ReactRedux)
+- <img align="top" alt="React Native" height="20" src="./icons/react_native.png"> **React Native**: [_Password Generator - Android_](https://github.com/lucasoal/app-password-generator) • [_Weather App - Android_](https://github.com/lucasoal/AppClimapp)
 
 </div>
