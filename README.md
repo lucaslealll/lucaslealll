@@ -7,7 +7,7 @@
     - _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 - 📊 Data Engineer at [_4Data Driven_](http://www.4datadriven.com.br/)
 - ⏳ 23yr old
-- <img align="center" alt="Brazil_Flag" height="15" src="./icons/brazil.svg"> Born in Brazil
+- <img align="center" alt="Brazil_Flag" height="15" src="./icons/brazil_flag.png"> Born in Brazil
 - 🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
 
 ## Technologies 💻
