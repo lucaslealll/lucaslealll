@@ -1,6 +1,6 @@
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucasoal&count_bg=%2000000&title_bg=%23000000&icon=&color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0D4074?=flat-circle&labelColor=black&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/lucasomarandradeleal/)](https://www.linkedin.com/in/lucasomarandradeleal/) [![Behance Badge](https://img.shields.io/badge/-Behance-0D4074?=flat-circle&labelColor=black&logo=behance&logoColor=FFFFFF&link=https://www.behance.net/lucasomarandradeleal)](https://www.behance.net/lucasomarandradeleal)
 
-## Hi everyone, I'm Lucas Andrade! 👋
+## Hi everyone, I'm Lucas Omar! 👋
 
 - 👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://computacao.pucpcaldas.br/)
   - 🛡️ **Researcher in Cyber-Intelligence at _CyberOne - Laboratory of Cybernetic Security and Computer Forensics_**
