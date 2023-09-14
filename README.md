@@ -3,7 +3,7 @@
 ## Hi everyone, I'm Lucas Omar! 👋
 
 - 👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://computacao.pucpcaldas.br/)
-  - 🛡️ **Researcher in Cyber-Intelligence at _CyberOne - Laboratory of Cybernetic Security and Computer Forensics_**
+  - 🛡️ **Researcher in Cyber-Intelligence at [_CyberOne - Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)**
     - _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
   - **Currently in process of double degree (Informatics Engineering)** - [_IPG - Portugal 🇵🇹_](https://politecnicoguarda.pt/)
 - 📊 Data Engineer at [_4Data Driven_](http://www.4datadriven.com.br/)
