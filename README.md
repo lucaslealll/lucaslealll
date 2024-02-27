@@ -2,7 +2,7 @@
 
 ## Hi, I'm Lucas Leal
 
-- ⏳ 23yr old
+- ⏳ 24yr old
 - 📊 **Data Engineer** at [_4Data-Driven_](http://www.4datadriven.com.br/)
 - 👨🏻‍💻 **Computer Science** Student [6/8] - [_PUC Minas_](https://computacao.pucpcaldas.br/)
   - Currently in process of **double degree [Informatics Engineering]** - [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
