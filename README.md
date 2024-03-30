@@ -9,7 +9,6 @@
   - 🛡️ **Researcher in Cyber-Intelligence at [_CyberOne - Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)**
     - _Focusing on the Construction of Tools and Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 - <img align="center" alt="Brazil_Flag" height="15" src="./icons/brazil_flag.png"> Born in Brazil
-- 🖱️ [_Graphic Designer_](https://www.behance.net/lucasomarandradeleal) as hobbie
 
 ## Technologies 💻
 
