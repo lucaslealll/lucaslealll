@@ -53,5 +53,4 @@
 - <img align="top" alt="Java"         height="20" src="./icons/java.svg"> **Java**: [_Hash Generator_](https://github.com/lucasoal/JavaGeradorHash) • [_Interface for Android Debug Bridge (ADB)_](https://github.com/lucasoal/java-AdbInterface) • [_Android API About Cities_](https://github.com/lucasoal/java-AndroidGeodbAPI)
 - <img align="top" alt="JavaScript"   height="20" src="./icons/js.svg"> **JavaScript**: [_Memory Game_](https://github.com/lucasoal/javascript-course-MemoryGame) • [_Terminal Chat_](https://github.com/lucasoal/javascript-course-Tchat) • [_WhatsApp Cyber Attendant_](https://github.com/lucasoal/javascript-WppBot)
 - <img align="top" alt="C"            height="20" src="./icons/c.svg"> **C**: [_C Projects_](https://github.com/lucasoal/puc-CienciaDaComputacao#c) • [_Parking Control_](https://github.com/lucasoal/puc-CienciaDaComputacao/tree/main/C/C-Estacionamentos) _Honorable mention for the first programming project_
-
 </div>
