@@ -55,4 +55,3 @@
 - <img align="top" alt="C"            height="20" src="./icons/c.svg"> **C**: [_C Projects_](https://github.com/lucasoal/puc-CienciaDaComputacao#c) • [_Parking Control_](https://github.com/lucasoal/puc-CienciaDaComputacao/tree/main/C/C-Estacionamentos) _Honorable mention for the first programming project_
 
 </div>
-
