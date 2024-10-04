@@ -23,7 +23,7 @@
   <img align="center" alt="C"           height="30" src="images/icons/c.svg">
   <img align="center" alt="Java"        height="30" src="images/icons/java.svg">
   <img align="center" alt=".NET"        height="25" src="images/icons/dotnet.png">
-  <img align="center" alt="Salesforce"  height="25" src="images/icons/salesforce.png">
+  <img align="center" alt="Salesforce"  height="25" src="images/icons/salesforce.svg">
   <img align="center" alt="React"       height="25" src="images/icons/react.svg">
   <img align="center" alt="HTML5"       height="30" src="images/icons/html5.svg">
   <img align="center" alt="CSS"         height="30" src="images/icons/css.svg">
