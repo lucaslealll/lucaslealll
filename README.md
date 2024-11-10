@@ -1,7 +1,3 @@
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucasoal&count_bg=%2000000&title_bg=%23000000&icon=&color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0D4074?=flat-circle&labelColor=black&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/lucasomarandradeleal/)](https://www.linkedin.com/in/lucasleall/)
-
-## Hi, I'm Lucas Leal
-
 - 📊 **Data Engineer** at [_4Data-Driven_](http://www.4datadriven.com.br/)
 - 👨🏻‍💻 **Computer Science** Student [6/8] - [_PUC Minas_](https://computacao.pucpcaldas.br/)
 - 👨🏻‍💻 **Informatics Engineering** [double degree] - [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
