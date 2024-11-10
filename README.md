@@ -7,67 +7,67 @@
 ## Technologies
 <div align="center">
   <!-- Sistemas Operacionais -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"/>
   <img width="0"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="25" alt="windows8 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"/>
   <img width="0"/>
-  <img src="https://cdn.simpleicons.org/apple/B0BEC5" height="25" alt="apple logo"/>
+  <img src="https://cdn.simpleicons.org/apple/B0BEC5" height="30" alt="apple logo"/>
 
   <!-- Nuvem -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="25" alt="google cloud logo"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="google cloud logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazon web services logo"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazon web services logo"/>
 
   <!-- Bancos de Dados -->
   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoft sql server logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoft sql server logo"/>
   <img width="0"/>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="25" alt="oracle logo"/>
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"/>
 
   <!-- Linguagens de Programação -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo"/>
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"/>
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"/>
 
   <!-- Frameworks e Bibliotecas -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"/>
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="25" alt="bootstrap logo"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="25" alt="dot-net logo"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"/>
   <img width="0"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="25" alt="salesforce logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"/>
   
   <!-- Desenvolvimento Web -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo"/>
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"/>
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"/>
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"/>
 
   <!-- Ferramentas de Desenvolvimento -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="25" alt="postman logo"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"/>
 
   <!-- Outras Tecnologias e Ferramentas
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="25" alt="adobe photoshop logo"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobe photoshop logo"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=pr" height="25" alt="adobe premiere pro logo"/>
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobe premiere pro logo"/>
   -->
 
   <br>
