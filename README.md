@@ -10,33 +10,84 @@
 - <img align="center" alt="Brazil_Flag" height="15" src="images/icons/brazil_flag.png"> Born in Brazil
 
 ## Technologies 💻
+<div align="center">
+  <!-- Sistemas Operacionais -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"/>
+  <img width="0"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"/>
+  <img width="0"/>
+  <img src="https://cdn.simpleicons.org/apple/B0BEC5" height="30" alt="apple logo"/>
 
-<div>
-  <img align="center" alt="Python"      height="30" src="images/icons/python.svg">
-  <img align="center" alt="SqlServer"   height="30" src="images/icons/sql_server.png">
-  <img align="center" alt="MongoDB"     height="25" src="images/icons/mongodb.svg">
-  <img align="center" alt="Azure"       height="25" src="images/icons/azure.svg">
-  <img align="center" alt="GoogleCloud" height="30" src="images/icons/gcp.svg">
-  <img align="center" alt="AWS"         height="20" src="images/icons/aws.png">
-  <img align="center" alt="Airflow"     height="20" src="images/icons/airflow.png">
-  <img align="center" alt="Linux"       height="30" src="images/icons/ubuntu.svg">
-  <img align="center" alt="C"           height="30" src="images/icons/c.svg">
-  <img align="center" alt="Java"        height="30" src="images/icons/java.svg">
-  <img align="center" alt=".NET"        height="25" src="images/icons/dotnet.png">
-  <img align="center" alt="Salesforce"  height="25" src="images/icons/salesforce.svg">
-  <img align="center" alt="React"       height="25" src="images/icons/react.svg">
-  <img align="center" alt="HTML5"       height="30" src="images/icons/html5.svg">
-  <img align="center" alt="CSS"         height="30" src="images/icons/css.svg">
-  <img align="center" alt="JavaScript"  height="25" src="images/icons/js.svg">
+  <!-- Nuvem -->
+  <img width="20"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="google cloud logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazon web services logo"/>
+
+  <!-- Bancos de Dados -->
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoft sql server logo"/>
+  <img width="0"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"/>
+
+  <!-- Linguagens de Programação -->
+  <img width="20"/>
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"/>
+
+  <!-- Frameworks e Bibliotecas -->
+  <img width="20"/>
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"/>
+  <img width="0"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"/>
+  
+  <!-- Desenvolvimento Web -->
+  <img width="20"/>
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"/>
+
+  <!-- Ferramentas de Desenvolvimento -->
+  <img width="20"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"/>
+
+  <!-- Outras Tecnologias e Ferramentas
+  <img width="20"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobe photoshop logo"/>
+  <img width="0"/>
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobe premiere pro logo"/>
+  -->
 </div>
+
 
 ## Forensic 🛡️
 
-<div> 
+<div align="center"> 
   <img align="center" alt="Maltego"     height="20" src="images/icons/maltego.png">
+  <img width="0"/>
   <img align="center" alt="CipherTrace" height="20" src="images/icons/ciphertrace.png">
+  <img width="0"/>
   <img align="center" alt="TATUM"       height="15" src="images/icons/tatum.png">
+  <img width="0"/>
   <img align="center" alt="Kali Linux"  height="30" src="images/icons/kali.svg">
+  <img width="0"/>
   <img align="center" alt="TOR"         height="20" src="images/icons/tor.png">
 </div>
 
