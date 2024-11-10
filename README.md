@@ -29,7 +29,7 @@
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoft sql server logo"/>
   <img width="0"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle logo"/>
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="25" alt="oracle logo"/>
   <img width="0"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"/>
 
