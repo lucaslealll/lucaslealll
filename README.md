@@ -5,85 +5,81 @@
   - _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 
 ## Technologies
-<div align="center">
+<div align="center" style="pointer-events: none;">
   <!-- Sistemas Operacionais -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"/>
+  <img title="Linux"    height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img width="0"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"/>
+  <img title="Windows"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img width="0"/>
-  <img src="https://cdn.simpleicons.org/apple/B0BEC5" height="30" alt="apple logo"/>
+  <img title="macOS"    height="30" src="https://cdn.simpleicons.org/apple/B0BEC5"/>
 
   <!-- Nuvem -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="google cloud logo"/>
+  <img title="GCP"    height="30" src="https://skillicons.dev/icons?i=gcp"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"/>
+  <img title="Azure"  height="30" src="https://skillicons.dev/icons?i=azure"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazon web services logo"/>
+  <img title="AWS"    height="30" src="https://skillicons.dev/icons?i=aws"/>
 
   <!-- Bancos de Dados -->
   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoft sql server logo"/>
+  <img title="SQL Server"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
   <img width="0"/>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"/>
+  <img title="Oracle SGBD" height="30" src="https://cdn.simpleicons.org/oracle/F80000"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"/>
+  <img title="MongoDB"     height="30" src="https://skillicons.dev/icons?i=mongodb"/>
 
   <!-- Linguagens de Programação -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"/>
+  <img title="Python" height="30" src="https://skillicons.dev/icons?i=py"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"/>
+  <img title="C"      height="30" src="https://skillicons.dev/icons?i=c"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"/>
+  <img title="C#"     height="30" src="https://skillicons.dev/icons?i=cs"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"/>
+  <img title="Java"   height="30" src="https://skillicons.dev/icons?i=java"/>
 
   <!-- Frameworks e Bibliotecas -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"/>
+  <img title="React"      height="30" src="https://skillicons.dev/icons?i=react"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"/>
+  <img title="Bootstrap"  height="30" src="https://skillicons.dev/icons?i=bootstrap"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"/>
+  <img title=".NET"       height="30" src="https://skillicons.dev/icons?i=dotnet"/>
   <img width="0"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"/>
+  <img title="Salesforce" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
   
   <!-- Desenvolvimento Web -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"/>
+  <img title="HTML"       height="30" src="https://skillicons.dev/icons?i=html"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"/>
+  <img title="CSS"        height="30" src="https://skillicons.dev/icons?i=css"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"/>
+  <img title="JavaScript" height="30" src="https://skillicons.dev/icons?i=js"/>
 
   <!-- Ferramentas de Desenvolvimento -->
   <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"/>
+  <img title="VS Code" height="30" src="https://skillicons.dev/icons?i=vscode"/>
   <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"/>
-
-  <!-- Outras Tecnologias e Ferramentas
-  <img width="20"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobe photoshop logo"/>
-  <img width="0"/>
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobe premiere pro logo"/>
-  -->
+  <img title="Postman" height="30" src="https://skillicons.dev/icons?i=postman"/>
 
   <br>
   <br>
   
+  <!-- Ferramentas Forense -->
   <img width="20"/>
-  <img align="center" alt="Maltego"     height="20" src="images/icons/maltego.png">
+  <img title="Mtitleego"     height="20" height="30" src="images/icons/mtitleego.png">
   <img width="0"/>
-  <img align="center" alt="CipherTrace" height="20" src="images/icons/ciphertrace.png">
+  <img title="CipherTrace" height="20" height="30" src="images/icons/ciphertrace.png">
   <img width="0"/>
-  <img align="center" alt="TATUM"       height="15" src="images/icons/tatum.png">
+  <img title="TATUM"       height="15" height="30" src="images/icons/tatum.png">
   <img width="0"/>
-  <img align="center" alt="Kali Linux"  height="30" src="images/icons/kali.svg">
+  <img title="Kali Linux"  height="30" height="30" src="images/icons/kali.svg">
   <img width="0"/>
-  <img align="center" alt="TOR"         height="20" src="images/icons/tor.png">
+  <img title="TOR"         height="20" height="30" src="images/icons/tor.png">
 </div>
+
+
 
 ---
 
