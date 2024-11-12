@@ -68,7 +68,7 @@
   
   <!-- Ferramentas Forense -->
   <img width="20"/>
-  <img title="Mtitleego"     height="20" height="30" src="images/icons/mtitleego.png">
+  <img title="Maltego"     height="20" height="30" src="images/icons/maltego.png">
   <img width="0"/>
   <img title="CipherTrace" height="20" height="30" src="images/icons/ciphertrace.png">
   <img width="0"/>
