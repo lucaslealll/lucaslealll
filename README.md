@@ -25,7 +25,7 @@
   <img width="20"/>
   <img title="SQL Server"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
   <img width="0"/>
-  <img title="Oracle SGBD" height="30" src="https://cdn.simpleicons.org/oracle/F80000"/>
+  <img title="Oracle SGBD" height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg"/>
   <img width="0"/>
   <img title="MongoDB"     height="30" src="https://skillicons.dev/icons?i=mongodb"/>
 
