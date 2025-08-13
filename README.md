@@ -1,5 +1,5 @@
 - 📊 **Data Engineer** - [_4Data Driven_](http://www.4datadriven.com.br/)
-- 👨🏻‍💻 **Computer Science** Student [6/8] - [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
+- 👨🏻‍💻 **Computer Science** Student [8/8] - [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
 - 👨🏻‍💻 **Informatics Engineering** [Double Degree] - [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
 - 🛡️ **Former researcher in Cyber-Intelligence** - [_CyberOne - Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
   - _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
