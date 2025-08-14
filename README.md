@@ -1,10 +1,22 @@
-- 📊 **Data Engineer**
+<h2 style="font-size: 30px;">
+  <strong>LUCAS LEAL</strong><br>
+  <em>Sr. Data Engineer / GCP • Azure • Airflow • Python • SQL • NoSQL • SSMS</em>
+</h2>
+
+[🔗 Website • Lucas Leal](https://lucaslealll.github.io/lucaslealll/)
+ 
 - 👨🏻‍💻 **Computer Science** Student [8/8] - [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
 - 👨🏻‍💻 **Informatics Engineering** [Double Degree] - [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
 - 🛡️ **Former researcher in Cyber-Intelligence** - [_CyberOne - Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
   - _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 
+> 5 years in the technology market. Data Engineer with over 3 years of experience in projects for national and international companies. Expertise in: Project Infrastructure Planning; Flow Management and Control; Databases (SQL and NoSQL); Infrastructure (GCP, AWS, Azure); Linux Servers; Process Automation; Flow Controllers (Airflow, DataFactory).
+> 
+> Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer Engineering from IPG in Portugal.
+
 <hr>
+
+### Technologies
 
 <div align="center" style="pointer-events: none;">
   <!-- Sistemas Operacionais -->
@@ -81,6 +93,19 @@
 </div>
 
 <hr>
+
+### Creator of
+
+> #### <img height="50" src="https://github.com/athena-mentorship.png"/> [Athena Mentorship](https://github.com/athena-mentorship)
+> _Educational Project_ <br> Athena Mentorship is an educational initiative focused on mentoring and knowledge sharing within the tech community.  
+
+
+> #### <img height="50" src="https://github.com/quati-dev.png"/> [Quati](https://github.com/quati-dev/quati) <br>
+> _PyPI Project – Python Library_ <br> **quati** is a Python library designed to provide Dynamic data eng. functions to accelerate development and coding. Easily installable via PyPI.
+
+<hr>
+
+### Extra Projects
 
 | Tech              | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
