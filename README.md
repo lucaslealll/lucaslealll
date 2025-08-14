@@ -4,15 +4,9 @@
 </h2>
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://lucaslealll.github.io/lucaslealll" target="_blank">
-    <img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447">
-  </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/lucas-leal-"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://lucaslealll.github.io/lucaslealll"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a>
+  <a target="_blank" href="https://github.com/lucaslealll"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 - 👨🏻‍💻 **Computer Science** Student [8/8] - [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
