@@ -4,7 +4,8 @@
 - 🛡️ **Former researcher in Cyber-Intelligence** - [_CyberOne - Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
   - _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 
-## Technologies
+<hr>
+
 <div align="center" style="pointer-events: none;">
   <!-- Sistemas Operacionais -->
   <img title="Linux"    height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
