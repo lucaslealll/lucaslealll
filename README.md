@@ -3,8 +3,12 @@
   <em>Sr. Data Engineer / GCP • Azure • Airflow • Python • SQL • NoSQL • SSMS</em>
 </h2>
 
-[🔗 Website • Lucas Leal](https://lucaslealll.github.io/lucaslealll/)
- 
+<div align="right">
+  <img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
 - 👨🏻‍💻 **Computer Science** Student [8/8] - [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
 - 👨🏻‍💻 **Informatics Engineering** [Double Degree] - [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
 - 🛡️ **Former researcher in Cyber-Intelligence** - [_CyberOne - Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
