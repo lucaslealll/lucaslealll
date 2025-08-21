@@ -3,8 +3,8 @@
   <em>Sr. Data Engineer / GCP • Azure • Airflow • Python • SQL • NoSQL • SSMS</em>
 </h2>
 
-- 👨🏻‍💻 **Computer Science** Student [8/8] – [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
-- 👨🏻‍💻 **Informatics Engineering** [Double Degree] – [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
+- 👨🏻‍💻 **Computer Science** – [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
+- 👨🏻‍💻 **Computer Science Engineering** – [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
 - 🛡️ **Former researcher in Cyber-Intelligence** – [_CyberOne – Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
   – _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 
