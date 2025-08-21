@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 **Computer Science** – [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
 - 👨🏻‍💻 **Computer Science Engineering** – [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
-- 🛡️ **Former researcher in Cyber-Intelligence** – [_CyberOne – Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
+- 🛡️ Former researcher in Cyber-Intelligence – [_CyberOne – Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
   – _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 
 > 5 years in the technology market. Data Engineer with over 3 years of experience in projects for national and international companies. Expertise in: Project Infrastructure Planning; Flow Management and Control; Databases (SQL and NoSQL); Infrastructure (GCP, AWS, Azure); Linux Servers; Process Automation; Flow Controllers (Airflow, DataFactory).
