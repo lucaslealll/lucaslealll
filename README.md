@@ -111,8 +111,14 @@
 
 ### Bachelor's Projects
 
-> #### <a target="_blank" href="https://github.com/lucaslealll-puc-cc"> <img width="70" src="assets/logo-puc-color.svg"/> Computer Science – PUC Minas | Brazil </a>
-> #### <a target="_blank" href="https://github.com/lucaslealll-puc-ei"> <img width="70" src="assets/logo-ipg-color.png"/> Computer Science Engineering – IPG | Portugal </a>
+<div align="left" style="display: flex; justify-content: center">
+    <a target="_blank" href="https://github.com/lucaslealll-puc-cc" style="text-decoration: none; color: inherit;">
+        <img title="PUC" height="70" src="assets/logo-puc-color.svg">
+    </a> 
+    <a target="_blank" href="https://github.com/lucaslealll-ipg-ei" style="text-decoration: none; color: inherit;">
+        <img title="IPG" height="70" src="assets/logo-ipg-color.png">
+    </a>
+</div>
 
 
 <!-- | Tech              | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
