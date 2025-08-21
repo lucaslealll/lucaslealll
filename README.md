@@ -3,12 +3,6 @@
   <em>Sr. Data Engineer / GCP • Azure • Airflow • Python • SQL • NoSQL • SSMS</em>
 </h2>
 
-<div align="right">
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-leal-"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="https://lucaslealll.github.io/lucaslealll"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a>
-  <a target="_blank" href="https://github.com/lucaslealll"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
 - 👨🏻‍💻 **Computer Science** Student [8/8] – [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
 - 👨🏻‍💻 **Informatics Engineering** [Double Degree] – [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
 - 🛡️ **Former researcher in Cyber-Intelligence** – [_CyberOne – Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
@@ -17,6 +11,12 @@
 > 5 years in the technology market. Data Engineer with over 3 years of experience in projects for national and international companies. Expertise in: Project Infrastructure Planning; Flow Management and Control; Databases (SQL and NoSQL); Infrastructure (GCP, AWS, Azure); Linux Servers; Process Automation; Flow Controllers (Airflow, DataFactory).
 > 
 > Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer Engineering from IPG in Portugal.
+
+<div align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/lucas-leal-"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://lucaslealll.github.io/lucaslealll"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a>
+  <a target="_blank" href="https://github.com/lucaslealll"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
 <hr>
 
