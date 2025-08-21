@@ -9,10 +9,10 @@
   <a target="_blank" href="https://github.com/lucaslealll"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-- 👨🏻‍💻 **Computer Science** Student [8/8] - [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
-- 👨🏻‍💻 **Informatics Engineering** [Double Degree] - [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
-- 🛡️ **Former researcher in Cyber-Intelligence** - [_CyberOne - Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
-  - _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
+- 👨🏻‍💻 **Computer Science** Student [8/8] – [_PUC Minas 🇧🇷_](https://computacao.pucpcaldas.br/)
+- 👨🏻‍💻 **Informatics Engineering** [Double Degree] – [_IPG Portugal 🇵🇹_](https://politecnicoguarda.pt/)
+- 🛡️ **Former researcher in Cyber-Intelligence** – [_CyberOne – Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
+  – _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 
 > 5 years in the technology market. Data Engineer with over 3 years of experience in projects for national and international companies. Expertise in: Project Infrastructure Planning; Flow Management and Control; Databases (SQL and NoSQL); Infrastructure (GCP, AWS, Azure); Linux Servers; Process Automation; Flow Controllers (Airflow, DataFactory).
 > 
@@ -109,23 +109,10 @@
 
 <hr>
 
-### College Projects
+### Bachelor's Projects
 
-<div align="center" style="display: flex; justify-content: center;">
-    <a target="_blank" href="https://github.com/lucaslealll-puc-cc">
-      <figure style="text-align: center;">
-          <img title="PUC" height="100" src="assets/logo-puc-color.svg">
-          <figcaption>Computer Science | PUC Minas - Brazil</figcaption>
-      </figure>
-    </a>
-    <a target="_blank" href="https://github.com/lucaslealll-ipg-ei">
-      <figure style="text-align: center;">
-          <img title="IPG" height="100" src="assets/logo-ipg-color.png">
-          <figcaption>CS Engineering | IPG - Portugal</figcaption>
-      </figure>
-    </a>
-</div>
-
+> #### <a target="_blank" href="https://github.com/lucaslealll-puc-cc"> <img width="70" src="assets/logo-puc-color.svg"/> Computer Science – PUC Minas | Brazil </a>
+> #### <a target="_blank" href="https://github.com/lucaslealll-puc-ei"> <img width="70" src="assets/logo-ipg-color.png"/> Computer Science Engineering – IPG | Portugal </a>
 
 
 <!-- | Tech              | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
