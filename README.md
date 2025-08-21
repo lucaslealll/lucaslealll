@@ -111,7 +111,7 @@
 
 ### Bachelor's Projects
 
-<div align="left" style="display: flex; justify-content: center">
+<div align="center" style="display: flex; justify-content: center">
     <a target="_blank" href="https://github.com/lucaslealll-puc-cc" style="text-decoration: none; color: inherit;">
         <img title="PUC" height="70" src="assets/logo-puc-color.svg">
     </a> 
