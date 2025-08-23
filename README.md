@@ -1,4 +1,7 @@
 <h2 style="font-size: 30px;">
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-linkedin.jpeg"> <img src="assets/banner-linkedin.jpeg">
+	</picture>
   <strong>LUCAS LEAL</strong><br>
   <em>Sr. Data Engineer / GCP • Azure • Airflow • Python • SQL • NoSQL • SSMS</em>
 </h2>
